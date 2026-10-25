@@ -2,7 +2,8 @@
 
 Welcome to the official repository for **KisanSeva**—an initiative aimed at empowering farmers with technology, accessible resources, and digital solutions.
 
-🌐 **Live Website:** [kisanseva-ai-crop-li-ytv8.bolt.host](https://kisanseva-ai-crop-li-ytv8.bolt.host/)
+🌐 **Live Website:** 
+https://kisansevaa-five.vercel.app/
 
 ---
 
