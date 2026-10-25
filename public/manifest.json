@@ -1,0 +1,17 @@
+{
+  "name": "KisanSeva - Kisan AI Health & Crop Assistant",
+  "short_name": "KisanSeva",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F0FDF4",
+  "theme_color": "#1B5E20",
+  "description": "AI-powered crop and livestock disease diagnosis platform for Indian farmers with bilingual Hindi & English support.",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

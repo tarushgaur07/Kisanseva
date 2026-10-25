@@ -1,0 +1,6 @@
+{
+  "name": "KisanSeva - AI Crop & Livestock Diagnosis",
+  "description": "AI-powered crop and livestock disease diagnosis platform for Indian farmers with bilingual Hindi & English support, offline capability, and veterinary connect.",
+  "requestFramePermissions": ["geolocation", "microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
