@@ -3,7 +3,7 @@
 Welcome to the official repository for **KisanSeva**—an initiative aimed at empowering farmers with technology, accessible resources, and digital solutions.
 
 🌐 **Live Website:** 
-https://kisansevaa-five.vercel.app/
+https://kisansevaa-3nfwe86dz-tarush-gaur.vercel.app
 
 ---
 
